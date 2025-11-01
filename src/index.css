@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+	html {
+		font-family: theme("fontFamily.sans");
+		scroll-behavior: smooth;
+	}
+}
