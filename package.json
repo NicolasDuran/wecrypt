@@ -1,7 +1,7 @@
 {
 	"name": "wecrypt",
 	"private": true,
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
 	"description": "Local end-to-end encryption in the browser",
 	"homepage": "https://wecrypt.eu",
