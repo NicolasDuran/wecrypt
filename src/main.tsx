@@ -54,7 +54,7 @@ function Navbar() {
 						<Link to="/" className="text-sm font-semibold text-slate-900 leading-tight flex items-center gap-1.5">
 							WeCrypt
 							<span className="inline-flex items-center rounded-full bg-slate-100 px-1.5 py-0.5 text-[10px] font-semibold text-slate-500">
-								v0.0.1
+								v0.0.2
 							</span>
 						</Link>
 						<p className="text-[11px] text-slate-400 leading-tight">
